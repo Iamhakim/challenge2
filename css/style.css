@@ -47,8 +47,8 @@ h1 ,h2 {
   border-radius: 5px;
 
 }
-.main-nav{
-
+.job-tittle{
+  color: var(--main-color);
 }
 #logo {
   height: 50px;
